@@ -4,7 +4,7 @@
 
 ### Building at the intersection of AI, Data Science & ML Engineering
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer+in+the+making;Data+Scientist+%7C+Data+Analytics;Turning+messy+data+into+decisions;Currently+building%3A+end-to-end+ML+%26+data+pipelines)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=AI+Engineer;Machine+Learning+Engineer+in+the+making;Data+Scientist+%7C+Data+Analytics;Turning+messy+data+into+decisions;Currently+building%3A+end-to-end+ML+%26+data+pipelines)](https://git.io/typing-svg)
 
 </div>
 
