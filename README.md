@@ -14,7 +14,7 @@
 
 I'm building hands-on expertise across the AI/ML and data stack — from cleaning and modeling data to shipping full data pipelines in the cloud. I learn by building complete, end-to-end projects rather than isolated notebooks, and I document each one thoroughly (EDA → modeling → evaluation → deployment-readiness).
 
-- 🔭 Currently building a portfolio spanning **Machine Learning, Data Engineering, and Analytics**
+- 🔭 Currently building a portfolio spanning **AI Engineering, Machine Learning, Data Engineering, and Analytics**
 - 🌱 Currently deepening skills in **PySpark, Azure Databricks, and cloud data pipelines**
 - 🎯 Targeting roles in **AI / Data Science / ML Engineering / Data Analytics**
 - 💬 Ask me about **scikit-learn, XGBoost, regression modeling, or Spark pipelines**
