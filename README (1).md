@@ -83,7 +83,7 @@ End-to-end regression project on the UCI Auto Imports dataset. Compared 9 algori
 
 ### 📫 Connect with me
 
-<div align="center">
+<div align="center"> 
 
 <!-- Replace the # below with your real profile URLs -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
